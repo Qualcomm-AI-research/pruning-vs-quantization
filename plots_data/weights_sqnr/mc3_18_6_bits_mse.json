@@ -1,0 +1,1 @@
+{"fc": {"sample_kurtosis": 3.60793290599174, "quant_sqnr": 24.559864171353976, "quant_mse": 4.234545849612914e-05, "quant_sparsity": 0.07947265356779099, "pruning_sqnr": 9.520233197260682, "pruning_mse": 0.0013513565063476562, "pruning_sqnr_corrected": 8.856460967107349, "pruning_mse_corrected": 0.0015745162963867188}}
